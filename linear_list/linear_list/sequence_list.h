@@ -3,6 +3,7 @@
 #include "data.h"
 
 #define	MAXSIZE		10
+#define	INT_MAX		0x7fffffff
 
 typedef struct {
 	ElemType data[MAXSIZE];
